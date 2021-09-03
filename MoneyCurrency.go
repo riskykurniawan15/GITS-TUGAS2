@@ -9,7 +9,7 @@ import (
 func main(){
 	// Risky Kurniawan - Universitas Adhirajasa Resawara Sanjaya
 	// Buat program input output berupa konversi dari integer(numerik) menjadi format currency (Rupiah & dollar).
-	var nilai int = 25000
+	var nilai int
 	fmt.Println("========================================")
 	fmt.Println("     PROGRAM KONVERSI ANGKA KE UANG")
 	fmt.Println("========================================")
