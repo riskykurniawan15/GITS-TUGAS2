@@ -19,7 +19,7 @@ func main(){
 	fmt.Printf("Format Rupiah    = %s\n", currency(nilai, "IDR"))
 	fmt.Printf("Format US Dollar = %s\n", currency(nilai, "USD"))
 	fmt.Println("========================================")
-	fmt.Println("Kurs            = $ 1.00 USD -> Rp. 14.251,55")
+	fmt.Println("Kurs             = $ 1.00 USD -> Rp. 14.251,55")
 	fmt.Println("========================================")
 }
 
